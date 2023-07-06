@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Jhozmer Ramírez</h1>
-<h3 align="center">Soy un desarrollador de automatismos, Frontend y Backend apasionado.</h3>
+<h3 align="center">Soy un desarrollador apasionado con habilidades en automatismos, Frontend y Backend.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejarp78&label=Profile%20views&color=0e75b6&style=flat" alt="alejarp78" /> </p>
 
