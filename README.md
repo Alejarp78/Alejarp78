@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alejarp78" alt="alejarp78" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/alejarp" target="blank"><img src="https://img.shields.io/twitter/follow/alejarp?logo=twitter&style=for-the-badge" alt="alejarp" /></a> </p>
+<p align="left"> <a href="https://twitter.com/alejarp" target="blank"><img src="https://img.shields.io/twitter/follow/alejarp?logo=twitter&style=for-the-badge" alt="alejarp" /></a> </p> 
+<p align="center"><a href="https://www.linkedin.com/in/jhozmer-ram%C3%ADrez-ingelec1/" target="blank"><img src="https://img.shields.io/linkedin/follow/jhozmer-ram%C3%ADrez?logo=linkedin&style=for-the-badge" alt="jhozmer-ramirez" /></a> </p>
 
 - 🔭 Actualmente estoy trabajando en **desafíos propuestos por Alura Latam - ORACLE**
 
