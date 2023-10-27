@@ -11,7 +11,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Frameworks, Node.js, React, javascript**
 
-- 💬 Preguntame sobre **HTML, CSS, Javascript, Node.js, MySQL**
+- 💬 Preguntame sobre **HTML, CSS, Javascript, Node.js, MySQL, Python, Numpy, Pandas, MatPlotLib, Seaborn**
 
 - 📫 Contacto por el correo electrónico **jhozmer.ramirez@gmail.com**
 
